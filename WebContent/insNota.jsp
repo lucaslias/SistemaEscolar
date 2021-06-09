@@ -41,7 +41,7 @@
         
       </ul>
       <span class="navbar-text">
-        feito por: Lucas Guilherme e Gustavo Rocha (arruma os itens do menu)
+        feito por: Lucas Guilherme e Gustavo Rocha
       </span>
     </div>
   </div>
